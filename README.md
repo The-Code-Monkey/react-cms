@@ -7,3 +7,5 @@ This system will run off of a core project and plugin style add-ons for things l
 - [ ] Forgot Password
 - [ ] Admin Users Create/Edit/Delete Plugin
 - [ ] Blog Create/Edit/Delete Plugin
+
+All PR's must be done on a staging-{ issueNo || newFeature }
